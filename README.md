@@ -14,7 +14,6 @@ A multiplayer game set in enclosed maps, inspired by Bonk.io. Enjoy fast-paced b
 Immerse yourself in the world of our multiplayer enclosed map game with a focus on dynamic battles and special abilities. Whether you're playing against your friends or challenging the AI, the enclosed map adds an extra layer of strategy to the gameplay.
 
 ## Features
-List the key features of your game. For example:
 - Single-player mode with target shooting.
 - Two-player mode with local multiplayer combat.
 - Time-based challenges.
@@ -27,13 +26,10 @@ List the key features of your game. For example:
 - Run the "Actual Game" file to begin playing
 
 ## Game Modes
-Explain the different game modes available, including their objectives. For example:
 - **Single Player:** Shoot targets before the timer runs out.
 - **Two Player:** Engage in local multiplayer combat against a friend sharing the same keyboard.
 
 ## Controls
-
-Outline the controls for each game mode. For example:
 - **Single Player:** 
   - Move: WASD
   - Shoot: E
