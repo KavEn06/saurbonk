@@ -47,6 +47,5 @@ Immerse yourself in the world of our multiplayer enclosed map game with a focus 
     - Tracer: U
 
 ## License
-Pls don't steal :(
-It's a goofy little game I made... 
+This project is licensed under the MIT License
 
